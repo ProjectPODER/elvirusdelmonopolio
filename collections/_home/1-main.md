@@ -15,7 +15,7 @@ media-left: false
 ---
 # EL VIRUS DEL MONOPOLIO
 
-En México, el combate al VIH se sostiene sobre un mercado altamente concentrado donde cinco proveedores acaparan 85% del gasto y las farmacéuticas cierran el paso a genéricos. Las compras consolidadas no han frenado la mortalidad: más de 9 mil personas murieron en 2023 y 2024 por causas relacionadas al VIH.
+En México, el combate al VIH se sostiene sobre un mercado altamente concentrado donde cinco proveedores acaparan 85% del gasto y las farmacéuticas cierran el paso a genéricos. Las compras consolidadas no han frenado la mortalidad: más de 9 mil personas murieron en 2023 y 2024 por causas relacionadas al VIH..
 
 [Ver documentación](https://towerbuilder.readthedocs.io/es/latest/index.html)
 
