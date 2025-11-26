@@ -23,7 +23,7 @@ two-columns-section: true
 # Media position
 media-left: true
 # Two column background color
-column-background-color: "#343a40"
+column-background-color: "#000"
 
 # Section background and text colors
 background-color: "#ffffff"

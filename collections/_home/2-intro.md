@@ -32,7 +32,7 @@ articles-section:
   background-color: "#EFEFEF"
 # Article 1
 article-content:
-  title: MUERTES PERSISTEN EN POBLACIÓN SEROPOSITIVA
+  title: Muertes persisten en población seropositiva
   author: Ricardo Balderas
   organization: PODER
   description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
@@ -40,7 +40,7 @@ article-content:
   link: https://github.com/ProjectPODER
 # Article 2
 article-content2:
-  title: EL NEGOCIO DE LAS PATENTES GILEAD Y VIIV
+  title: El negocio de las patentes GILEAD y VIIV
   author: Ricardo Balderas
   organization: PODER
   description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.

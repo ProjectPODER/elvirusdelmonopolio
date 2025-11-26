@@ -30,3 +30,31 @@ a {
 .min-vh-100 {
     min-height: 100vh !important;
 }
+
+.other-projects {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    background-image: url("");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.project1 {
+    background-image: url("./img/lasonajadelavida.jpg");
+}
+
+.project2 {
+    background-image: url('./img/paredon.jpg');
+}
+
+.project3 {
+    background-image: url('./img/vivirconvih.png');
+}
+
+.project4 {
+    background-image: url('./img/comprasarv.jpg');
+}
