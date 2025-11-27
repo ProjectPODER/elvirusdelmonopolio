@@ -51,11 +51,11 @@ article-content2:
 {:.text-center}
 ## INTRODUCCIÓN
 
-La crisis del acceso a tratamientos y prevención del VIH en México no es resultado de un solo fallo, sino de un entramado de intereses corporativos, monopolios farmacéuticos y políticas públicas que privilegian a unos cuantos proveedores. Mientras Gilead y ViiV
-restringen el acceso regional a genéricos de última generación y mantienen el control de patentes clave, el sistema mexicano concentra 85% del gasto en solo cinco empresas, reproduce desabasto crónico y opera sin la transparencia mínima para garantizar continuidad terapéutica. Incluso instituciones como PEMEX enfrentan rupturas en el suministro, con consecuencias directas para miles de trabajadores y sus familias.
+La crisis del acceso a tratamientos y prevención del VIH en México no es resultado de una sola falla, sino de un entramado de intereses corporativos, monopolios farmacéuticos y políticas públicas que privilegian a unos cuantos proveedores. Mientras Gilead y ViiV
+restringen el acceso regional a genéricos de última generación y mantienen el control de patentes clave, el sistema mexicano concentra el 85% del gasto en solo cinco empresas, reproduce un desabasto crónico y opera sin la transparencia mínima para garantizar la continuidad terapéutica. Incluso instituciones como PEMEX enfrentan rupturas en el suministro, con consecuencias directas para miles de trabajadores y sus familias.
 
-En este panorama aparece un matiz menos visible pero igualmente relevante: las compras consolidadas no han logrado reflejarse en una reducción sostenida de la mortalidad (más de nueve mil defunciones entre 2023 y 2024) ni en una mayor capacidad de anticipación frente a eventualidades. La exclusión regional de acuerdos globales de genéricos y la
-dependencia de un grupo acotado de proveedores muestran cómo ciertas decisiones limitan el posibilidad de acción del sistema. Incluso la posible ausencia de preservativos hasta
+En este panorama aparece un matiz menos visible pero igualmente relevante: las compras consolidadas no han logrado reflejarse en una reducción sostenida de la mortalidad (más de nueve mil defunciones entre 2023 y 2024) ni en una mayor capacidad de anticipación ante eventualidades. La exclusión regional de acuerdos globales de genéricos y la
+dependencia de un grupo acotado de proveedores evidencian cómo ciertas decisiones limitan la capacidad de acción del sistema. Incluso la posible ausencia de preservativos hasta
 2027, señalada por al menos dos organizaciones civiles, ilustra cómo pequeños eslabones de la cadena pueden revelar las tensiones estructurales del sistema de salud más amplias.
 
 {:.text-center}
