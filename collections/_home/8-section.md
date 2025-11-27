@@ -40,9 +40,9 @@ El trabajo es realizado por PODER, una organización regional de la sociedad civ
 - Coordinación del proyecto: Ricardo Balderas.
 - Desarrollo web: Marisol Carrillo.
 - Visualización y análisis de datos: Ricardo Balderas.
+- Arte gráfico: Dani Scharf
 - En alianza de republicación con: Altavoz LGBT, ZonaDocs, Serendipia, Milenio
-(por confirmar), La Opinión de los Ángeles, Proceso (por confirmar), Aristegui Noticias
-(por confirmar), Ceiba y Pie de Página.
+  La Opinión de los Ángeles, Proceso, Ceiba y Pie de Página.
 - Asesoría de seguridad: Marisol Carrillo y Óscar Pineda.
 
 ## Agradecimientos:
