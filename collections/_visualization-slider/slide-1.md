@@ -3,6 +3,6 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# ESTE ES EL PRIMER SLIDE
+# Total del gasto
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+México destinó 1,685,779,235.06 pesos en 1,529 contratos de Tratamiento Antirretroviral o (TARV) en 2020, último año en el que el país reportó pública y desagregadamente las compras de medicamentos consolidados.
