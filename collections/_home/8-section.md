@@ -24,7 +24,7 @@ text-color: "#333333"
 
 El virus del monopolio es parte de un proyecto de datos, investigación y periodismo de PODER que se actualiza cada año con el análisis de la base de datos de compras públicas (Compranet) y que tiene como objetivo analizar la situación del acceso al tratamiento para personas que tuvieron contacto con el Virus de Inmunodeficiencia Humana (VIH) o de quienes así lo requieran.
 
-El trabajo es realizado por PODER, una organización regional de la sociedad civil sin fines de lucro que busca fomentar la transparencia y la rendición de cuentas de las empresas en América Latina desde una perspectiva de derechos humanos, género e interseccionalidad.
+[PODER](https://poderlatam.org/) es una organización regional de la sociedad civil sin fines de lucro que busca fomentar la transparencia y la rendición de cuentas de las empresas en América Latina desde una perspectiva de derechos humanos, género e interseccionalidad.
 
 ## Fuentes
 - Compranet.
