@@ -58,3 +58,5 @@ En este panorama aparece un matiz menos visible pero igualmente relevante: las c
 dependencia de un grupo acotado de proveedores evidencian cómo ciertas decisiones limitan la capacidad de acción del sistema. Incluso la posible ausencia de preservativos hasta
 2027, señalada por al menos dos organizaciones civiles, ilustra cómo pequeños eslabones de la cadena pueden revelar las tensiones estructurales del sistema de salud más amplias.
 
+<div class="flourish-embed flourish-sankey" data-src="visualisation/26502143"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26502143/thumbnail" width="100%" alt="sankey visualization" /></noscript></div>
+
