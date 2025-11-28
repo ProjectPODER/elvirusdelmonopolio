@@ -35,17 +35,18 @@ article-content:
   title: Muertes persisten en población seropositiva
   author: Ricardo Balderas
   organization: PODER
-  description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
-  image: bg-masthead.jpg
-  link: https://github.com/ProjectPODER
+  description: PEn 2020, último año con datos públicos y desagregados, México erogó 1,685 millones de pesos en tratamientos TARV; más del 82 por ciento de ese gasto terminó en manos de tres empresas. Sin embargo las cifras de mortalidad por VIH correspondientes a los años siguientes muestran que las autoridades gastaron menos en tratamiento y las muertes persisten.
+  image: assets/img/_ORIGINAL PODER - EL VIRUS DEL MONOPOLIO- ILUSTRA 2.jpg
+  link: [https://github.com/ProjectPODER](https://poderlatam.org/2025/12/las-nuevas-compras-tarv-no-bastan-30-mil-muertes-por-vih/)
 # Article 2
 article-content2:
   title: El negocio de las patentes GILEAD y VIIV
   author: Ricardo Balderas
   organization: PODER
-  description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
-  image: bg-masthead.jpg
-  link: https://github.com/ProjectPODER
+  description: El mismo año que las firmas Gilead y ViiV anuncian una negativa para el uso de medicamentos libres de derechos en contra de América Latina, la compra de TARV se concentró en una de las empresas y en lo que respecta a los insumos relacionados a la atención para personas que viven con VIH el 85% del gasto público se concentra en manos de solo 5 empresas.
+  image: assets/img/_ORIGINAL PODER - EL VIRUS DEL MONOPOLIO- ILUSTRA 1.jpg
+  link: [https://github.com/ProjectPODER](https://poderlatam.org/2025/12/el-virus-del-monopolio-el-negocio-de-gilead-y-viiv/)
+  
 ---
 
 {:.text-center}
