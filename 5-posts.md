@@ -1,7 +1,4 @@
 ---
 layout: posts
-title: Artículos
-permalink: /articulos/
+permalink: /posts/
 ---
-
-# ESTE ES EL TITULO DE LA PÁGINA DE ARTÍCULOS
