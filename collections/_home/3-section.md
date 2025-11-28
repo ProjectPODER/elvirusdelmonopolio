@@ -1,5 +1,5 @@
 ---
-title: Sección de una columna
+title: Datos
 cta-button-section: false
 button:
   link: "https://projectpoder.github.io/tolococr/"

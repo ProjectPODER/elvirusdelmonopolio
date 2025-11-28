@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 
 main-section: true
 main-logo:

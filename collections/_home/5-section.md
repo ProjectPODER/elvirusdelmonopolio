@@ -1,5 +1,5 @@
 ---
-title: Sección de dos columnas
+title: Reel
 # Media section
 media: true
 media-type: # Fill only one option

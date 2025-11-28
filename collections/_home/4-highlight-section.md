@@ -1,5 +1,5 @@
 ---
-title: Sección destacada
+title: Otros proyectos
 cta-button-section: false
 button:
   link: "https://poderlatam.org/"
