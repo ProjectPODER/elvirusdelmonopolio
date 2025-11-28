@@ -38,7 +38,7 @@ article-content:
   author: Ricardo Balderas
   organization: PODER
   description: PEn 2020, último año con datos públicos y desagregados, México erogó 1,685 millones de pesos en tratamientos TARV; más del 82 por ciento de ese gasto terminó en manos de tres empresas. Sin embargo las cifras de mortalidad por VIH correspondientes a los años siguientes muestran que las autoridades gastaron menos en tratamiento y las muertes persisten.
-  image: _ORIGINAL PODER - EL VIRUS DEL MONOPOLIO- ILUSTRA 2.jpg
+  image: _VIH_2.jpg
   link: https://poderlatam.org/2025/12/las-nuevas-compras-tarv-no-bastan-30-mil-muertes-por-vih/
 # Article 2
 article-content2:
@@ -46,7 +46,7 @@ article-content2:
   author: Ricardo Balderas
   organization: PODER
   description: El mismo año que las firmas Gilead y ViiV anuncian una negativa para el uso de medicamentos libres de derechos en contra de América Latina, la compra de TARV se concentró en una de las empresas y en lo que respecta a los insumos relacionados a la atención para personas que viven con VIH el 85% del gasto público se concentra en manos de solo 5 empresas.
-  image: _ORIGINAL PODER - EL VIRUS DEL MONOPOLIO- ILUSTRA 1.jpg
+  image: _VIH_1.JPG
   link: https://poderlatam.org/2025/12/el-virus-del-monopolio-el-negocio-de-gilead-y-viiv/
   
 ---
