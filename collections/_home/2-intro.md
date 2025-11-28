@@ -49,7 +49,7 @@ article-content2:
 ---
 
 {:.text-center}
-## INTRODUCCIÓN
+## El virus del monopolio
 
 La crisis del acceso a tratamientos y prevención del VIH en México no es resultado de una sola falla, sino de un entramado de intereses corporativos, monopolios farmacéuticos y políticas públicas que privilegian a unos cuantos proveedores. Mientras Gilead y ViiV
 restringen el acceso regional a genéricos de última generación y mantienen el control de patentes clave, el sistema mexicano concentra el 85% del gasto en solo cinco empresas, reproduce un desabasto crónico y opera sin la transparencia mínima para garantizar la continuidad terapéutica. Incluso instituciones como PEMEX enfrentan rupturas en el suministro, con consecuencias directas para miles de trabajadores y sus familias.
