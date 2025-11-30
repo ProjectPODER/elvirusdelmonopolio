@@ -53,4 +53,4 @@ article-content2:
 
 ## Reel
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+El último año que México reportó las compras TARV de manera pública (2020), registró un gasto de 1,685 millones de pesos en antirretrovirales, de los cuales más del 82 por ciento terminó en manos de tres compañías: Farmacéuticos Maypo (40.79 por ciento), Gilead Sciences México (30.73 por ciento) y Janssen-Cilag (11.60 por ciento). A partir de ese año dejó de transparentarse la información consolidada.
