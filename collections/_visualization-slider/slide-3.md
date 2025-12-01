@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: graph3.png
 ---
 
 # Tres empresas acaparan compras públicas

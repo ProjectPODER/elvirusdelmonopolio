@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: graph2.png
 ---
 
 # Compras consolidadas menos transparencia

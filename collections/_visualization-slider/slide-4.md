@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: graph4.png
 ---
 
 # Las ganadoras del modelo de compras consolidadas
