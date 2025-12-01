@@ -41,7 +41,7 @@ text-color: "#333333"
 - Desarrollo web: Marisol Carrillo.
 - Visualización y análisis de datos: Ricardo Balderas.
 - Arte gráfico: Dani Scharf
-- En alianza de republicación con: Altavoz LGBT, ZonaDocs, Serendipia, Milenio
+- En alianza de republicación con: Altavoz LGBT, ZonaDocs, Serendipia, Milenio,
   La Opinión de los Ángeles, Proceso, Ceiba y Pie de Página.
 - Asesoría de seguridad: Marisol Carrillo y Óscar Pineda.
 
