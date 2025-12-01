@@ -22,7 +22,7 @@ text-color: "#333333"
 {:.text-center}
 ## ACERCA DEL PROYECTO
 
-El virus del monopolio es parte de un proyecto de datos, investigación y periodismo de PODER que se actualiza cada año con el análisis de la base de datos de compras públicas (Compranet) y que tiene como objetivo analizar la situación del acceso al tratamiento para personas que tuvieron contacto con el Virus de Inmunodeficiencia Humana (VIH) o de quienes así lo requieran.
+**El Virus del Monopolio** es parte de un proyecto de datos, investigación y periodismo de PODER que se actualiza cada año con el análisis de la base de datos de compras públicas (Compranet) y que tiene como objetivo analizar la situación del acceso al tratamiento para personas que tuvieron contacto con el Virus de Inmunodeficiencia Humana (VIH) o de quienes así lo requieran.
 
 [PODER](https://poderlatam.org/) es una organización regional de la sociedad civil sin fines de lucro que busca fomentar la transparencia y la rendición de cuentas de las empresas en América Latina desde una perspectiva de derechos humanos, género e interseccionalidad.
 
@@ -41,7 +41,7 @@ El virus del monopolio es parte de un proyecto de datos, investigación y period
 - Desarrollo web: Marisol Carrillo.
 - Visualización y análisis de datos: Ricardo Balderas.
 - Arte gráfico: Dani Scharf
-- En alianza de republicación con: Altavoz LGBT, ZonaDocs, Serendipia, Milenio
+- En alianza de republicación con: Altavoz LGBT, ZonaDocs, Serendipia, Milenio,
   La Opinión de los Ángeles, Proceso, Ceiba y Pie de Página.
 - Asesoría de seguridad: Marisol Carrillo y Óscar Pineda.
 
